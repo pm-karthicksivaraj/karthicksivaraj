@@ -687,7 +687,7 @@ header a.logo img {
 }
 
 .slider-copyright {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     font-size: 18px;
     position: absolute;
     bottom: 15px;
@@ -2004,3 +2004,4 @@ and (orientation: portrait) {
     }
 
 }
+
